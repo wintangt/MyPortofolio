@@ -28,7 +28,7 @@ try:
       print(f'{"0"+str(jumlahTahun)} Tahun, {(jumlahBulan)} Bulan, {(jumlahPekan)} Minggu, {(sisaHari)} hari') 
 except:
     print('jumlah hari salah')
-'''
+
 #Soal Nomor 2
 print("="*50)
 print("Soal Nomor Dua")
