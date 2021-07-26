@@ -1,8 +1,4 @@
 '''
-######## Team Assignment
-Mini Apps v 1.0
-Member 2-3 orang 
-
 
 ##### 
 - Ketika awal program di run, akan muncul 3 pilihan 
