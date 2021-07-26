@@ -1,7 +1,4 @@
 '''
-### Tugas Personal
-Deadline : Rabu : 17.00 => 9 Juni 2021
-
 - Email Verification/Validation
 Buatlah suatu Return Function untuk Verifikasi/validasi Email 
 
